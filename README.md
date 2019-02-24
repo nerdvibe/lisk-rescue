@@ -28,4 +28,4 @@ You will need a file editor, a terminal and have installed NodeJS. That's all.
 - Triple check that the receiver is correct.
 - execute broadcast.js by running `node broadcast.js`
 
-Recomendations: For the first attempt, try with a ver low amount of LSK, e.g. 1 (which corresponds to 0.00000001 LSK)
+Recomendations: For the first attempt, try with a very low amount of LSK, e.g. 1 (which corresponds to 0.00000001 LSK)

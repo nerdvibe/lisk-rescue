@@ -1,4 +1,9 @@
-# Lisk-rescue
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/nerdvibe/lisk-rescue/master/banner.png">
+  <br/>
+  <strong>Recover funds from non conventional passphrases</strong>
+</p>
+<hr/>
 
 ## You have a non standard passphrase and your funds are locked? No problem!
 
@@ -13,7 +18,7 @@ The script is nothing else than calling lisk-elements in order to sign the trans
 You will need a file editor, a terminal and have installed NodeJS. That's all.
 
 - Open your terminal
-- `git clone TODO` 
+- `git clone https://github.com/nerdvibe/lisk-rescue.git` 
 - `cd lisk-rescue`
 - Now open the file generate.js and add your details to the fields
 - Double check that the receiver address is correct.
